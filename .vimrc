@@ -14,3 +14,5 @@ iabbrev dd Data::Dumper::Dumper(
 
 :set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
 
+set iskeyword+=:
+
