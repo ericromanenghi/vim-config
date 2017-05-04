@@ -16,3 +16,5 @@ iabbrev dd Data::Dumper::Dumper(
 
 set iskeyword+=:
 
+vnoremap // y/<C-R>"<CR>
+
