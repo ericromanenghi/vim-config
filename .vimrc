@@ -18,3 +18,4 @@ set iskeyword+=:
 
 vnoremap // y/<C-R>"<CR>
 
+nnoremap <silent><Leader><C-]> <C-w><C-]><C-w>T
